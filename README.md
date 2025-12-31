@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Akshat Saxena
 
-<!--
-**AkshatSaxena-18/AkshatSaxena-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Science) Student | 💻 Software & AI Enthusiast  
+📍 Pune, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About
+I am a BCA student with hands-on experience in **Python, Java, Web Development, SQL, and AI tools**.  
+I enjoy building real-world projects, participating in hackathons, and learning emerging technologies.
+
+---
+
+## 🛠 Skills
+**Languages:** C, C++, Python, Java, JavaScript  
+**Web:** HTML, CSS, Node.js, Express.js, Tailwind CSS  
+**Databases:** SQL, PostgreSQL  
+**Tools:** Git, GitHub, PyCharm, JDBC
+
+---
+
+## 📌 Projects
+- **Password Manager (Python GUI)**  
+  Python-based password generator & manager using Tkinter and encryption  
+  🔗 https://github.com/AkshatSaxena-18/Python-Mini-Project-for-college-Assignments
+
+---
+
+## 🏆 Highlights
+- Google Gen AI Study Jams 2024  
+- Smart India Hackathon 2024  
+- College Events
+
+---
+
+## 🌐 Connect
+- GitHub: https://github.com/AkshatSaxena-18  
+- LinkedIn: https://www.linkedin.com/in/akshat-saxena-011522335/
